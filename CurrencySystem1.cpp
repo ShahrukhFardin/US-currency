@@ -29,7 +29,7 @@ int main(){
     quart = cents / centInQuarts;
     cout<<"Quarts : "<<quart<<endl;
     
-    int leftQuart{cents % centInQuarts}; // leftQuart keeps the left Quarts after calculation(converting to cents).
+    int leftQuart{cents % centInQuarts}; // leftQuart keeps the left Quarts after calculation(converting to Quarts).
     
     dime = leftQuart / centInDime;
     cout<<"Dimes : "<<dime<<endl;

@@ -1,2 +1,2 @@
 # US-currency
-As a beginner. This is my first Program is C++
+As a beginner. This is my first Program in C++
